@@ -1,0 +1,45 @@
+{
+    "Customer":"Mr.lee",
+    "Items order":"A4 paper Ruler",
+    "qty":5 2,
+    "price":120 25,
+}
+{
+    "Customer":"Mr.Yue",
+    "Items order":"Falsh Driver A4 paper",
+    "qty":2 3,
+    "price":130 120, 
+},
+{
+    "customer":[
+        {
+            "name":"Mr.lee",
+            "item":[
+                {
+                    "name":"A4 paper",
+                    "qty":5,
+                    "price":120
+                },
+                {
+                    "name":"Ruler",
+                    "qty":5,
+                    "price":25
+                }
+            ]
+
+            "name":"Mr.Yue",
+            "item":[
+                {
+                    "name":"Falsh Driver",
+                    "qty":2,
+                    "price":130
+                },
+                {
+                    "name":"A4 paper",
+                    "qty":3,
+                    "price":120
+                }
+            ]
+        }
+    ]
+}
